@@ -6,8 +6,6 @@ I'm a software developer who also love science 🤓 , and pilates 🧘.
 
 I'm realy pession about learning new technologies 📚.
 
-I'm currently looking for my first job as a junior web developer 💪 !
-
 I would like to collaborate on open source projects 👯 (so if you have a suggestion please let me know!😄).
 
  Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/reutby/) 😇!
